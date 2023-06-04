@@ -24,7 +24,11 @@
             <artifactId>opencsv</artifactId>
             <version>5.7.1</version>
         </dependency>
-   
+        <dependency>
+            <groupId>com.nrinaudo</groupId>
+            <artifactId>kantan.csv-opencsv_2.10</artifactId>
+            <version>0.1.17</version>
+        </dependency>
     </dependencies>
 
 </project>
